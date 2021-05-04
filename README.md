@@ -1,4 +1,10 @@
-### Hi there 👋
+## 👋 Hi there.
+
+#### 👈 That's my cute doge Zita.
+
+##### I'm a self-taught Front-end Developer and Web Designer, I enjoy both and try to combine the two as much as possible.
+
+
 
 <!--
 **j-michell/j-michell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
