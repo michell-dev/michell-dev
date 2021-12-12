@@ -1,8 +1,6 @@
 ## 👋 Hi there.
 
-#### 👈 That's my cute doge Zita.
-
-##### I'm a self-taught Front-end Developer and Web Designer, I enjoy both and try to combine the two as much as possible.
+##### Aspiring Frontend Developer with interest in Linux, FOSS, design & much more..
 
 
 
