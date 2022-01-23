@@ -1,9 +1,5 @@
 ## 👋 Hi there.
 
-##### Aspiring Frontend Developer with interest in Linux, FOSS, design & much more..
-
-
-
 <!--
 **j-michell/j-michell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
